@@ -17,6 +17,10 @@ header {
 .header__logo {
 	cursor: pointer;
 }
+.header__logo:hover {
+	cursor: pointer;
+	color: lightslategray;
+}
 .header__container {
 	width: 1170px;
 	margin: auto;
